@@ -11,5 +11,8 @@ The software is developed for `ros1` with rviz config as well. The `ros1` and rv
 
 The robot was controlled by sending joint angles to the robot via serial communication. The joint angles are computed using `roboticstoolbox` package and the robot model was developed using DH-Parameters with the help of `roboticstoolbox` `DHRobot`.
 
-
 Robot Model can be found in `Moveo.py`, and `/moveo_moveit/movements.py` file contains the movement script with the implementation of inverse kinematics from **roboticstoolbox**.
+
+![rtb_eg](assets/rtb.png)
+
+**NOTE:** The work is still in progress.
