@@ -1,5 +1,5 @@
 # Moveo 5-DOF Software (WIP)
-This Repo contains the hardware setup and software configuration of the open source BCN3D-Moveo Robotic arm.<
+This Repo contains the hardware setup and software configuration of the open source BCN3D-Moveo Robotic arm.
 
 The arm is fully 3d-printed with PLA and actuated by nema 17 and nema 23 stepper motors and controlled by an arduino mega microcontroller. More information about the robotic arm and BOM can be found here: https://github.com/BCN3D/BCN3D-Moveo
 
